@@ -8,7 +8,6 @@ img {
     top: 50%;
     transform: translate(-50%, -50%);
 }
-
 @keyframes neon {
     from {
         filter: drop-shadow(0 0 0 var(--cor-neon));
@@ -29,3 +28,6 @@ img {
 .box {
     --cor-neon: #3de7f2;
 }
+
+
+

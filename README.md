@@ -19,13 +19,21 @@
 
 👤 **Dinicley Alves**
 
-* Twitter: [@dinicleyalves](https://twitter.com/dinicleyalves)
-* Github: [@dinicleyalves](https://github.com/dinicleyalves)
-* LinkedIn: [@dinicley](https://linkedin.com/in/dinicleyalves)
+🚀  GitHub:[@dinicleyalves](https://github.com/dinicleyalves)
+🚀  Twitter:[@dinicleyalves](https://twitter.com/dinicleyalves)
+🚀  Instagram:[@dinicleyalves](https://www.instagram.com/dinicleyalves)
+🚀  Facebook: @dinicleyalves](https://www.facebook.com/page.dinicleyalves)
+🚀  Dev: [@dinicleyalves](https://dev.to/dinicleyalves)
+🚀  StackOverflow:[@dinicleyalves](https://stackoverflow.com/users/14184186/dinicley-alves)
+🚀  Linkedin:[@dinicleyalves](https://www.linkedin.com/in/dinicleyalves)
+🚀  Telegram:[@dinicleyalves](https://t.me/dicas_dinicleyalves)
+🚀  Medium:[@dinicleyalves](https://medium.com/@dinicleyalves)
+🚀  Pinterest:[@dinicleyalves](https://br.pinterest.com/dinicleyalves)
+
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 ***
-__
+_Thank you for existing, and making the world of technology more fantastic every day._

@@ -19,8 +19,8 @@
 
 👤 **Dinicley Alves**
 
-🚀  * GitHub:[@dinicleyalves] (https://github.com/dinicleyalves)
-🚀  * Twitter:[@dinicleyalves] (https://twitter.com/dinicleyalves) 
+* 🚀  GitHub:[@dinicleyalves] (https://github.com/dinicleyalves)
+* 🚀  Twitter:[@dinicleyalves] (https://twitter.com/dinicleyalves) 
 🚀  * Instagram:[@dinicleyalves] (https://www.instagram.com/dinicleyalves) 
 🚀  * Facebook: [@dinicleyalves] (https://www.facebook.com/page.dinicleyalves) 
 🚀  * Dev: [@dinicleyalves] (https://dev.to/dinicleyalves) 
@@ -30,10 +30,6 @@
 🚀  * Medium:[@dinicleyalves] (https://medium.com/@dinicleyalves) 
 🚀  * Pinterest:[@dinicleyalves] (https://br.pinterest.com/dinicleyalves) 
 
-* Website: gitshowcase.com/maykbrito
-* Twitter: [@maykbrito](https://twitter.com/maykbrito)
-* Github: [@maykbrito](https://github.com/maykbrito)
-* LinkedIn: [@maykbrito](https://linkedin.com/in/maykbrito
 
 
 

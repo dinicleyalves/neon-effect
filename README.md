@@ -19,16 +19,16 @@
 
 👤 **Dinicley Alves**
 
-🚀  * GitHub:[@dinicleyalves](https://github.com/dinicleyalves) 
-🚀  * Twitter:[@dinicleyalves](https://twitter.com/dinicleyalves) 
-🚀  * Instagram:[@dinicleyalves](https://www.instagram.com/dinicleyalves) 
-🚀  * Facebook: @dinicleyalves](https://www.facebook.com/page.dinicleyalves) 
-🚀  * Dev: [@dinicleyalves](https://dev.to/dinicleyalves) 
-🚀  * StackOverflow:[@dinicleyalves](https://stackoverflow.com/users/14184186/dinicley-alves) 
-🚀  * Linkedin:[@dinicleyalves](https://www.linkedin.com/in/dinicleyalves) 
-🚀  * Telegram:[@dinicleyalves](https://t.me/dicas_dinicleyalves) 
-🚀  * Medium:[@dinicleyalves](https://medium.com/@dinicleyalves) 
-🚀  * Pinterest:[@dinicleyalves](https://br.pinterest.com/dinicleyalves) 
+🚀  * GitHub:[@dinicleyalves] (https://github.com/dinicleyalves) 
+🚀  * Twitter:[@dinicleyalves] (https://twitter.com/dinicleyalves) 
+🚀  * Instagram:[@dinicleyalves] (https://www.instagram.com/dinicleyalves) 
+🚀  * Facebook: [@dinicleyalves] (https://www.facebook.com/page.dinicleyalves) 
+🚀  * Dev: [@dinicleyalves] (https://dev.to/dinicleyalves) 
+🚀  * StackOverflow:[@dinicleyalves] (https://stackoverflow.com/users/14184186/dinicley-alves) 
+🚀  * Linkedin:[@dinicleyalves] (https://www.linkedin.com/in/dinicleyalves) 
+🚀  * Telegram:[@dinicleyalves] (https://t.me/dicas_dinicleyalves) 
+🚀  * Medium:[@dinicleyalves] (https://medium.com/@dinicleyalves) 
+🚀  * Pinterest:[@dinicleyalves] (https://br.pinterest.com/dinicleyalves) 
 
 
 ## Show your support

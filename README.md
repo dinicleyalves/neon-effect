@@ -30,6 +30,11 @@
 🚀  * Medium:[@dinicleyalves] (https://medium.com/@dinicleyalves) 
 🚀  * Pinterest:[@dinicleyalves] (https://br.pinterest.com/dinicleyalves) 
 
+* Website: gitshowcase.com/maykbrito
+* Twitter: [@maykbrito](https://twitter.com/maykbrito)
+* Github: [@maykbrito](https://github.com/maykbrito)
+* LinkedIn: [@maykbrito](https://linkedin.com/in/maykbrito
+
 
 
 ## Show your support

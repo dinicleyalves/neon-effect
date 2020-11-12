@@ -13,7 +13,7 @@
 
 ### 🏠 [My Website](https://dinicleyalves.com.br/)
 
-### ✨ [Demo](https://neoneffect.dinicleyalves.com.br)
+### ✨ [Demo](https://www.dinicleyalves.com.br/neon-effect/)
 
 ## Author
 
